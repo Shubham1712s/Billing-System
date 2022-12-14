@@ -1,0 +1,14 @@
+	Welcome Grocery Retail
+Bill Number: 3585
+Customer Name: rthrtghr
+Phone Number: 9554661332
+================================
+Products		QTY		Price
+ Mask		4		20
+ Wheat		2		20
+ Lassi		0		50
+ Medical Tax			Rs. 1.0
+ Grocery Tax			Rs. 100.0
+ Cold Drinks Tax			Rs. 5.0
+ Total Bil:			 Rs.196.0
+--------------------------------

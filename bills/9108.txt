@@ -1,0 +1,14 @@
+	Welcome Grocery Retail
+Bill Number: 9108
+Customer Name: Harsh
+Phone Number: 9462830136
+================================
+Products		QTY		Price
+ Sanitizer		1		5
+ Food Oil		1		10
+ Coke		1		10
+ Medical Tax			Rs. 0.25
+ Grocery Tax			Rs. 50.0
+ Cold Drinks Tax			Rs. 1.0
+ Total Bil:			 Rs.76.25
+--------------------------------

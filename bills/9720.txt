@@ -1,0 +1,14 @@
+	Welcome Grocery Retail
+Bill Number: 9720
+Customer Name: sdfghjk
+Phone Number: 1234567890
+================================
+Products		QTY		Price
+ Sanitizer		1		5
+ Wheat		2		20
+ Coke		2		20
+ Medical Tax			Rs. 0.25
+ Grocery Tax			Rs. 100.0
+ Cold Drinks Tax			Rs. 2.0
+ Total Bil:			 Rs.147.25
+--------------------------------

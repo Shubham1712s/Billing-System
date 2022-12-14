@@ -1,0 +1,19 @@
+	Welcome Grocery Retail
+Bill Number: 4282
+Customer Name: Harsh
+Phone Number: 9462830136
+================================
+Products		QTY		Price
+ Sanitizer		1		5
+ Hand Gloves		2		24
+ Food Oil		2		20
+ Wheat		1		10
+ Maggi		10		50
+ Coke		1		10
+ Mountain Duo		1		10
+--------------------------------
+ Medical Tax			Rs. 1.45
+ Grocery Tax			Rs. 400.0
+ Cold Drinks Tax			Rs. 2.0
+ Total Bil:			 Rs.532.45
+--------------------------------
